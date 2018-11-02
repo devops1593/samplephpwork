@@ -8,7 +8,7 @@
 <p>My First Application Deployed in EBS </p>
 
 <?php
-echo "version :Ver v2.0";
+echo "version :v1.0";
 ?>
   
 </body>
