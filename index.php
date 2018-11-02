@@ -5,7 +5,7 @@
 <body>
 
 <h2>EBS</h2>
-<p>My First Application Deployed in EBS</p>
+<p>My First Application Deployed in EBS without Approval </p>
 
 <?php
 echo "version :Ver v2.0";
